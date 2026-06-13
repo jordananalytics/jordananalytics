@@ -24,3 +24,13 @@ Currently building real-world projects in Power BI, SQL, and Excel focused on sa
 - Power Query
 - DAX
 - Git & GitHub
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: [Your Portfolio URL]
+
+
+
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: [Your Portfolio URL]
