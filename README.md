@@ -1,36 +1,38 @@
-# Hi, I'm Jordan Ssewononda 👋
+# Jordan Ssewononda
 
-### Aspiring Data Analyst | Power BI | SQL | Excel | Business Intelligence
+### Aspiring Data Analyst | Power BI | SQL | Excel | DAX
 
-I am passionate about transforming raw data into actionable insights through data analysis and interactive dashboards.
+Passionate about transforming data into actionable insights through analytics, visualization, and business intelligence solutions.
 
-Currently building real-world projects in Power BI, SQL, and Excel focused on sales performance, revenue analysis, and profitability analysis.
+## Featured Project
 
----
+### Global Sales Analytics Dashboard
+
+Interactive Power BI dashboard analyzing:
+
+- Revenue Performance
+- Profitability Analysis
+- Regional Sales Trends
+- Product Performance
+- Business Insights
+
+🔗 Live Project:
+https://jordananalytics.github.io/Jordan-portfolio.github.io/Global_sales_analytics/
+
+🔗 Repository:
+https://github.com/jordananalytics/global_sales_analytics
+
 ## Skills
 
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Data Modeling
-
-### Tools
-
 - Power BI
+- DAX
 - SQL
 - Excel
 - Power Query
-- DAX
-- Git & GitHub
+- Data Modeling
+- Data Visualization
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
-
-
-
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: https://jordananalytics.github.io/Jordan-portfolio.github.io/
