@@ -34,5 +34,5 @@ https://github.com/jordananalytics/global_sales_analytics
 
 ## Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: 
 - Portfolio: https://jordananalytics.github.io/Jordan-portfolio.github.io/
