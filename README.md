@@ -34,5 +34,5 @@ https://github.com/jordananalytics/global_sales_analytics
 
 ## Connect With Me
 
-- LinkedIn: 
+- LinkedIn:  www.linkedin.com/in/ssewononda-jordan-a74015401
 - Portfolio: https://jordananalytics.github.io/Jordan-portfolio.github.io/
