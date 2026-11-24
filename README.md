@@ -1,6 +1,6 @@
 # Jordan Ssewononda
 
-### Aspiring Data Analyst | Power BI | SQL | Excel | DAX
+### Junior Data Analyst | Power BI | SQL | Excel | DAX
 
 Passionate about transforming data into actionable insights through analytics, visualization, and business intelligence solutions.
 
